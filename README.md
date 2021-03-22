@@ -3,10 +3,13 @@
 
 ##Tecnologias usadas no projeto:
 
--[] HTML
--[] CSS
--[] Javascript 
--[] EJS
--[] BOOTSTRAP 
--[] SQL
--[] SEQUELIZE
+-[NODEMON]  
+-[NPM PACKAGES] 
+-[HTML]
+-[CSS] 
+-[NODE.JS] 
+-[JAVASCRIPT ] 
+-[EJS] 
+-[BOOTSTRAP ] 
+-[SQL] 
+-[SEQUELIZE] 
