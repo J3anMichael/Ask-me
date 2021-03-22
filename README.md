@@ -40,8 +40,8 @@ watch the results in the right.
 
 Dillinger uses a number of open source projects to work properly:
 
-- [Html] - HTML enhanced for web apps!
-- [Ace Editor] - awesome web-based text editor
+- [Html] - utilizado para a criação das páginas!
+- [VS Code] - Editor de código 
 - [markdown-it] - Markdown parser done right. Fast and easy to extend.
 - [Twitter Bootstrap] - great UI boilerplate for modern web apps
 - [node.js] - evented I/O for the backend
