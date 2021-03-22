@@ -31,9 +31,9 @@ Convenções adotadas no ambiente de trabalho para o projeto XXX:
 
 
 ### BIBLIOTECAS DO PROJETO
-* Usamos o [ Flight framework ](http://flightphp.com/) como framework para rotas, porque tem um desempenho melhor que o Slim Framework ou outros top de linha;
+* Usei o [ Express ](https://expressjs.com/pt-br/) Express.js é um framework para aplicações web para Node.js. É feito para otimizar a construção de aplicações web e API's;
 
-* Banco de dados MySql e biblioteca [ Medoo ](http://medoo.in/). O Medoo é de longe a melhor library que ja conheci. A regra de outro é que suas clases não podem de maneira alguma ficarem dentro de classes e ou funções;
+* Banco de dados MySql e biblioteca [ Sequelize ](https://www.npmjs.com/package/sequelize).Sequelize é uma ferramenta Node.js ORM baseada em promessa para Postgres , MySQL , MariaDB , SQLite e Microsoft SQL Server . Ele oferece suporte a transações sólidas, relações, carregamento rápido e lento, replicação de leitura e muito mais.
 
 * Sistema de template: o [ Twig ](http://twig.sensiolabs.org) para gerenciar e separar com mais segurança as views, mais abaixo você encontra um tópico falando um pouco mais dessa escolha;
 
