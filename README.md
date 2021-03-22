@@ -25,7 +25,7 @@ Convenções adotadas no ambiente de trabalho para o projeto XXX:
 
 
 
-... EXEPLO QUE PODE CONTER OUTRAS COISAS COMO ESTRUTURA DE PASTAS E TUTORIAIS ....
+... EXEMPLO QUE PODE CONTER OUTRAS COISAS COMO ESTRUTURA DE PASTAS E TUTORIAIS ....
 
 
 
@@ -55,6 +55,6 @@ Escolhi twig pela facilidade de aprendizado, por ter usado bastante com microfra
 Muito obrigado pela atenção
 
 #### SOBRE O AUTOR/ORGANIZADOR
-Philipe Cairon Medeiros de Siqueira
-caironm.go@gmail.com
+Jean Michael de Moura 
+jeanmmclaudino@gmail.com
 Idéias? Vamos discutir. Telegram: @caironm
