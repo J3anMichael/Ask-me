@@ -46,4 +46,4 @@ Muito obrigado pela atenção
 #### SOBRE O AUTOR/ORGANIZADOR
 Jean Michael de Moura 
 jeanmmclaudino@gmail.com
-Idéias? Vamos discutir. Telegram: @caironm
+Idéias? Vamos discutir. 
