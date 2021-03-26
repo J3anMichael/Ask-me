@@ -24,7 +24,7 @@ Destinado a pessoas de todas as idades, tire suas dúvidas e responda também.
 
 * Ferramenta NPM: [Nodemon ](https://www.npmjs.com/package/nodemon) é uma Tool facilitadora de desenvolvimento, atualizando seu localhost conforme você vai codando e editando suas aplicações;
 
-* Package Template: [ EJS ](https://ejs.co/) é uma linguagem de modelagem simples que permite gerar marcação HTML com JavaScript simples.
+* View engine: [ EJS ](https://ejs.co/) é uma linguagem de modelagem simples que permite gerar marcação HTML com JavaScript simples.
 
 * 
 
