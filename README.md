@@ -26,7 +26,7 @@ Destinado a pessoas de todas as idades, tire suas dúvidas e responda também.
 
 * View engine: [ EJS ](https://ejs.co/) é uma linguagem de modelagem simples que permite gerar marcação HTML com JavaScript simples.
 
-* 
+* Biblioteca Express: [ Body-Parser ](https://www.npmjs.com/package/body-parser)
 
 *
 
